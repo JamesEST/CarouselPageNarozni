@@ -10,7 +10,7 @@ namespace CarouselPageNarozni
 {
     public partial class MainPage : CarouselPage
     {
-        ContentPage M4Carabin;
+        ContentPage M4Carabin, ak;
         public MainPage()
         {
             //InitializeComponent();
@@ -68,7 +68,7 @@ namespace CarouselPageNarozni
                 }
             };
 
-            var ak47 = new ContentPage
+            ak = new ContentPage
             {
                 Content = new StackLayout
                 {
@@ -94,10 +94,12 @@ namespace CarouselPageNarozni
         private void Btn2_Clicked(object sender, EventArgs e)
         {
             this.Children.Remove(M4Carabin);
+            this.Children.Add(ak);
         }
 
         private void Btn1_Clicked(object sender, EventArgs e)
         {
+            this.Children.Remove(ak);
             this.Children.Add(M4Carabin);
 
         }
