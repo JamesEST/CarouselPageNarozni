@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarouselPageNarozni.Android", "CarouselPageNarozni\CarouselPageNarozni.Android\CarouselPageNarozni.Android.csproj", "{0ACA561A-BEF2-4361-AB0E-9B880550266D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarouselPageNarozni", "CarouselPageNarozni\CarouselPageNarozni\CarouselPageNarozni.csproj", "{8E92EB62-1001-4C93-A813-F95F7C708EE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ACA561A-BEF2-4361-AB0E-9B880550266D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ACA561A-BEF2-4361-AB0E-9B880550266D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ACA561A-BEF2-4361-AB0E-9B880550266D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0ACA561A-BEF2-4361-AB0E-9B880550266D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ACA561A-BEF2-4361-AB0E-9B880550266D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ACA561A-BEF2-4361-AB0E-9B880550266D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8E92EB62-1001-4C93-A813-F95F7C708EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E92EB62-1001-4C93-A813-F95F7C708EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E92EB62-1001-4C93-A813-F95F7C708EE4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8E92EB62-1001-4C93-A813-F95F7C708EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E92EB62-1001-4C93-A813-F95F7C708EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E92EB62-1001-4C93-A813-F95F7C708EE4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {845F4717-A3C7-43F3-B62F-10813C533D58}
+	EndGlobalSection
+EndGlobal
