@@ -24,7 +24,7 @@ namespace CarouselPageNarozni
             };
             Button btn1 = new Button()
             { 
-                Text = "Автоматический карабин"
+                Text = "Автоматические Винтовки"
             };
             Button btn2 = new Button()
             {
